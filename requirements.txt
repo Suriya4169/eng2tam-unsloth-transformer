@@ -1,0 +1,14 @@
+unsloth
+transformers
+peft
+accelerate
+bitsandbytes
+datasets
+sentence-transformers
+sacrebleu
+torch
+tqdm
+trl
+numpy
+re
+random

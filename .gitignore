@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Model and data outputs
+/tamil-translation-model/
+/evaluation_results.txt
+*.pt
+*.bin
+*.h5
+*.ckpt
+
+# Environment
+.env
+.venv/
+
+# VS Code
+.vscode/
